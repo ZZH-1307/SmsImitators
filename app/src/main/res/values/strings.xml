@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sms</string>
+    <string name="app_name">短信模仿者</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
