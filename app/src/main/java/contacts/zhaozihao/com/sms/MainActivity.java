@@ -14,8 +14,6 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
     private static final String TAG = "MainActivity";
     Button send;
-    Button back;
-    private String filePath;
     EditText phone;
     EditText body;
     String strbody,strphone;
